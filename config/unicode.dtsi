@@ -1,1 +1,1 @@
-ZMK_UNICODE_SINGLE(pipe,   N0, N0, N7, C)
+ZMK_UNICODE_SINGLE(uni_pipe,   N0, N0, N7, C)
